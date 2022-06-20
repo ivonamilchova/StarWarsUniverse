@@ -1,0 +1,7 @@
+2
+Bespin 4
+Luke MASTER 15 pink 12
+Yoda GRAND_MASTER 56 orange 563
+Anakin GRAND_MASTER 23 pink 216
+Rey GRAND_MASTER 96 pink 452
+Crait 0
